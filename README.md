@@ -16,8 +16,3 @@ The script `detector_optimized_fixed.py` processes two audio files (`police_sire
 ![Alt Text](bss_results.png)
 
 This prototype provides empirical evidence for the paper’s claim that BSS can enable emergency sound detection in smart earphones.
-
-## Setup Instructions
-
-### Clone the Repository
-
