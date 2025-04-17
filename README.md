@@ -13,6 +13,8 @@ The script `detector_optimized_fixed.py` processes two audio files (`police_sire
   - `bss_results.png` – Visualizes the mixed signal and separated sources.
 - **Console output** indicating emergency sound detection.
 
+![Alt Text](bss_results.png)
+
 This prototype provides empirical evidence for the paper’s claim that BSS can enable emergency sound detection in smart earphones.
 
 ## Setup Instructions
